@@ -17,6 +17,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    zoom: 75%;
 }
 .cabecalho {
     position: relative;
@@ -127,6 +128,15 @@ strong:hover {
     justify-content: center;
     color: var(--cor-secundaria);
     width: 40%;
+}
+.foto__projetos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: var(--cor-secundaria);
+    width: 20%;
+    gap: 30px;
+    margin-right: 140px;
 }
 .rodape {
     text-align: center;

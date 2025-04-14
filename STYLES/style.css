@@ -175,10 +175,16 @@ strong:hover {
         margin-top: -20px;
     }
 
+    .corpo__menu__informacao {
+        margin-left: -5px;
+    }
+
+    .corpo__menu__link {
+        margin-left: -5px;
+    }
+
     .corpo__menu__link__links {
         margin-bottom: 30px;
-        margin-left: -10px;
-
     }
     .foto {
         width: auto;
